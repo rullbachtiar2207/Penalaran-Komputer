@@ -1,6 +1,7 @@
 # Sistem Case-Based Reasoning (CBR) untuk Analisis Putusan Narkotika
 
 Repositori ini merupakan implementasi end-to-end dari sistem penalaran berbasis kasus (*Case-Based Reasoning*) yang dirancang untuk mendukung analisis putusan pengadilan perkara narkotika di Indonesia. Sistem ini terdiri dari lima tahap utama, mulai dari pembangunan basis kasus hingga evaluasi model.
+
 di buat oleh :
  - Muhammad Syahrul Bachtiar
  - Andika Nur Islamy
